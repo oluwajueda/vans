@@ -196,6 +196,7 @@ a:hover{
         align-items: center;
         /* margin-left: -25px; */
         margin: 0 auto;
+        padding-left: 0;
     }
     .object{
         display: block;
