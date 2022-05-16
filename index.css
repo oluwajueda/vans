@@ -75,7 +75,7 @@ a:link{
 }
 
 a:hover{
-    background-color:#000;
+    background-color:#fff;
     color: #fff;
     text-decoration: none;
     overflow: hidden;
