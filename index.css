@@ -186,11 +186,13 @@ a:hover{
         font-size: 35px;
         width: 100%;
     }
-    img{
+    .img{
         text-align: center;
         margin-top: 60px;
         display: block;
         align-items: center;
+        padding-left: 0;
+        
         /* margin-left: -25px; */
     }
     .object{
@@ -236,4 +238,11 @@ a:link {
                     margin-left: 15px;
         
                 } */
+
+                img .image{
+                    width: 100%;
+                    text-align: center;
+                    justify-content: center;
+                    align-items: center;
+                }
 }
